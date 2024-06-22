@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manisha Kumar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manisha Kumari
 =====================================================================================================================================
 
 Adept in C and C++, currently diving into Data Structures & Algorithms (DSA) to solidify my foundational knowledge. Recently embarked on my web development journey, eager to explore the exciting world of building interactive applications.
